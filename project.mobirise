@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RSPR",
-    "currentPage": "page7.html",
+    "currentPage": "page10.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5592,7 +5592,7 @@
             },
             ".mbr-text": {
               "color": "#232323",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "content6",
@@ -6284,7 +6284,7 @@
             },
             ".mbr-text": {
               "color": "#232323",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "content6",
@@ -6976,7 +6976,7 @@
             },
             ".mbr-text": {
               "color": "#232323",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "content6",
