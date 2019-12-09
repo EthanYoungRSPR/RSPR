@@ -519,6 +519,9 @@
               "letter-spacing": "1rem"
             },
             ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
             }
           },
